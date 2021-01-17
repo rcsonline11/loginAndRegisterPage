@@ -7,7 +7,7 @@
   height: 100%;
   width: 100%;
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url(./img/banner.jpg);
+    url(./img/newbanner.jpg);
   background-position: center;
   background-size: cover;
   position: absolute;
@@ -75,26 +75,25 @@
   outline: none;
   background: transparent;
 }
-.submit-btn{
- width: 85%;
- padding: 10px 30px;
- cursor: pointer;
- display: block;
- margin: auto;
- background: linear-gradient(to right, #ff105f, #ffad06);
- border: 0;
- outline: none;
- border-radius: 30px;
+.submit-btn {
+  width: 85%;
+  padding: 10px 30px;
+  cursor: pointer;
+  display: block;
+  margin: auto;
+  background: linear-gradient(to right, #ff105f, #ffad06);
+  border: 0;
+  outline: none;
+  border-radius: 30px;
 }
-.check-box{
- margin: 30px 10px 30px 0;
+.check-box {
+  margin: 30px 10px 30px 0;
 }
-span{
- color: #777;
- font-size: 12px;
- bottom: 68px;
- position: absolute;
+span {
+  color: #777;
+  font-size: 12px;
+  bottom: 68px;
+  position: absolute;
 }
-#login{
-
+#login {
 }
